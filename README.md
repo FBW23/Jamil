@@ -50,4 +50,4 @@ internal links
 [link to an anchor ](#anchors-in-markdown)  
 
 
-![Image](batman2 "icon") 
+![Image](Images/batman2 "icon") 
