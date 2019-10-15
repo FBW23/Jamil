@@ -59,4 +59,10 @@ internal links
 [Bendis](../../../bendis)   
 
 
+# checkboxes
+
+- [x] buy groceries 
+- [ ] cook 
+- [ ] eat
+
 
