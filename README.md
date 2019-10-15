@@ -70,5 +70,4 @@ internal links
 |  real name | alice | Bob | Carl |
 | - | - | - | - |
 | Nick name | al    | sponge bob | johnson |
-| - | - | - | - |
 | home towns | argentina | brasil | canada |
