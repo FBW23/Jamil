@@ -62,7 +62,7 @@ internal links
 # checkboxes
 
 - [x] buy groceries 
-- [ ] cook 
+- [x] cook 
 - [x] eat
 - [x] pooping
 
