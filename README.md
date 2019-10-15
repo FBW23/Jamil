@@ -64,6 +64,7 @@ internal links
 - [x] buy groceries 
 - [ ] cook 
 - [x] eat
+- [x] pooping
 
 # Table 
 
