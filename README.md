@@ -63,6 +63,6 @@ internal links
 
 - [x] buy groceries 
 - [ ] cook 
-- [ ] eat
+- [x] eat
 
 
