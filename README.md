@@ -65,4 +65,8 @@ internal links
 - [ ] cook 
 - [x] eat
 
+# Table 
 
+|  real name | alice | Bob | Carl |
+| - | - | - | - |
+| Nick name | al    | sponge bob | johnson |
