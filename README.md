@@ -45,7 +45,9 @@ internal links
 
 [Julien](../../../julien) 
 
-Anchors :
+# Anchors in markdown
 
 [link to an anchor ](#anchors-in-markdown)  
 
+
+![Image](batman2 "icon") 
