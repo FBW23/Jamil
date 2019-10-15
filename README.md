@@ -71,4 +71,6 @@ internal links
 | - | - | - | - 
 | Nick name | al    | sponge bob | johnson 
 | home towns | argentina | brasil | canada 
+| flags | :argentina: | :brazil: | :canada:
+
 
