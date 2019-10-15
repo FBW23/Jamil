@@ -47,5 +47,5 @@ internal links
 
 Anchors :
 
-[create an anchor ](#anchors-in-markdown)  
+[link to an anchor ](#anchors-in-markdown)  
 
